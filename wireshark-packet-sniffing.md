@@ -3,7 +3,6 @@
 **Tools Used:** Wireshark, XAMPP, Apache, MySQL  
 **Environment:** Localhost Sandbox Environment  
 
----
 
 ## Objective
 Designed a local full-stack environment to analyze how data flows between a web server and a database, specifically observing how unencrypted HTTP forms expose sensitive authentication parameters in transit.

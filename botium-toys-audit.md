@@ -6,7 +6,7 @@
 * GDPR
 * SOC2
 
----
+
 
 ## Scope & Objectives
 * **Goal:** Establish a secure baseline for a growing retail business by identifying vulnerable infrastructure touchpoints.
@@ -32,7 +32,7 @@
 | **Physical** | CCTV Surveillance | **Yes** | Cameras actively monitor building entry and exit points. |
 | **Physical** | Fire Detection & Prevention | **Yes** | Functioning smoke detectors and sprinkler systems installed. |
 
----
+
 
 ## Regulatory Compliance Checklist
 
@@ -52,7 +52,7 @@
 * [ ] **No** - PII/SPII data maintains strict confidentiality baselines.
 * [ ] **No** - Data integrity verification mechanisms are operational.
 
----
+
 
 ## Strategic Recommendations
 1. **Access Governance:** Implement the Principle of Least Privilege and deploy a centralized Password Management tool.

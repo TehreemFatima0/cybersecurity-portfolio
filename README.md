@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## Professional Summary
-I am a highly motivated cybersecurity student entering my 5th semester, combining foundational risk frameworks with a strong passion for Open Source Intelligence (OSINT) and investigative analysis. I hold a deep commitment to protecting privacy, helping organizations stay secure, and ensuring that Confidentiality, Integrity, and Availability (CIA) are never compromised.
+I am a highly motivated cybersecurity enthusiast entering my 5th semester, combining foundational risk frameworks with a strong passion for Open Source Intelligence (OSINT) and investigative analysis. I hold a deep commitment to protecting privacy, helping organizations stay secure, and ensuring that Confidentiality, Integrity, and Availability (CIA) are never compromised.
 
 
 
